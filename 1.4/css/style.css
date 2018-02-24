@@ -1,0 +1,29 @@
+.fullwrap {
+	background: #e4d1d1;
+	padding:15px;
+}
+.header {
+	min-height: 60px;
+	background: #11ecec;
+}
+.wrap {
+	background: #22b7a2;
+	padding:5px;
+	margin: 5px 0;
+}
+.main {
+	min-width: 75%;
+	min-height: 500px;
+	background: #75d975;
+	float:left;
+}
+.sidebar {
+	min-width: 25%;
+	min-height: 500px;
+	background: #bf78b6;
+	float:right;
+}
+.footer {
+	min-height: 80px;
+	background: #721717;
+}
